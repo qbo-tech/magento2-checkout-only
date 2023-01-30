@@ -1,5 +1,5 @@
 {
-  "name": "vendic/magento2-checkoutonly",
+  "name": "qbo-tech/magento2-checkoutonly",
   "description": "A module that enables you to limit access only the Magento checkout. Usefull for a PWA setup that uses the default Magento 2 checkout",
   "require": {
     "php": "^7.0|^8.0",
@@ -19,6 +19,6 @@
     }
   },
   "suggest": {
-    "vuestorefront/magento2-vue-cart-sync": "Synchronize Magento cart between Vue Storefront"
+    "qbo-tech/magento2-vue-cart-sync": "Synchronize Magento cart between Vue Storefront"
   }
 }
